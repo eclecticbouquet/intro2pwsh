@@ -4,4 +4,4 @@ Simple scripts created while working through [Microsoft's PowerShell scripting m
 
 ## [License](https://github.com/eclecticbouquet/intro2pwsh/blob/main/LICENSE)
 
-<img src="https://github.com/eclecticbouquet/intro2pwsh/main/img/mit-license.png?raw=true" alt="mit-license" height="150"/>
+<img src="https://raw.githubusercontent.com/eclecticbouquet/intro2pwsh/refs/heads/main/img/mit-license.png" alt="mit-license" height="150"/>
